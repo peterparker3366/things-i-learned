@@ -3,4 +3,5 @@ Engineering notes — things I keep re-explaining, written down once.
 
 ## Further reading
 
+- [Password reset email templates: HTML preview, localization, and the transactional API](posts/password-reset-email-templates-html-preview-localization-and-the-transac.md)
 - [Picking a Password Reset Email API: Resend, Postmark, SendGrid and the Alternatives](posts/picking-a-password-reset-email-api-resend-postmark-sendgrid-and-the-alte.md)
